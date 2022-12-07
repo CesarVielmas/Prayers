@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Prayers/static/css/main.ad5c2f56.css",
-    "main.js": "/Prayers/static/js/main.0955b339.js",
-    "static/media/boots2.jpg": "/Prayers/static/media/boots2.0a9d3eb464112b159e67.jpg",
-    "static/media/boots3.jpg": "/Prayers/static/media/boots3.94adb1c2aaa23342e3d6.jpg",
-    "static/media/boots4.jpg": "/Prayers/static/media/boots4.ed5572ba027c434b4f54.jpg",
-    "static/media/boots1.jpg": "/Prayers/static/media/boots1.1c443bc9b28717f811a6.jpg",
-    "static/media/trolley.svg": "/Prayers/static/media/trolley.5ba8fbcf4d75fdc27cba480dd1a90662.svg",
-    "index.html": "/Prayers/index.html",
-    "static/media/heart.svg": "/Prayers/static/media/heart.3486cd80ed8e535b56c02c6ee3831791.svg",
-    "main.ad5c2f56.css.map": "/Prayers/static/css/main.ad5c2f56.css.map",
-    "main.0955b339.js.map": "/Prayers/static/js/main.0955b339.js.map"
+    "main.css": "/PrayersWebpage/static/css/main.ad5c2f56.css",
+    "main.js": "/PrayersWebpage/static/js/main.468465be.js",
+    "static/media/boots2.jpg": "/PrayersWebpage/static/media/boots2.0a9d3eb464112b159e67.jpg",
+    "static/media/boots3.jpg": "/PrayersWebpage/static/media/boots3.94adb1c2aaa23342e3d6.jpg",
+    "static/media/boots4.jpg": "/PrayersWebpage/static/media/boots4.ed5572ba027c434b4f54.jpg",
+    "static/media/boots1.jpg": "/PrayersWebpage/static/media/boots1.1c443bc9b28717f811a6.jpg",
+    "static/media/trolley.svg": "/PrayersWebpage/static/media/trolley.5ba8fbcf4d75fdc27cba480dd1a90662.svg",
+    "index.html": "/PrayersWebpage/index.html",
+    "static/media/heart.svg": "/PrayersWebpage/static/media/heart.3486cd80ed8e535b56c02c6ee3831791.svg",
+    "main.ad5c2f56.css.map": "/PrayersWebpage/static/css/main.ad5c2f56.css.map",
+    "main.468465be.js.map": "/PrayersWebpage/static/js/main.468465be.js.map"
   },
   "entrypoints": [
     "static/css/main.ad5c2f56.css",
-    "static/js/main.0955b339.js"
+    "static/js/main.468465be.js"
   ]
 }
